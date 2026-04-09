@@ -6,3 +6,4 @@ One more new line
 Practicing the proper branch workflow on my desctop
 Practicing main commands: status, diff, commi, push
 Editing file from WEB Git
+editing brunch #2
